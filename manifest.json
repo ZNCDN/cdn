@@ -1,26 +1,37 @@
+
 {
-    "name": "Blog Kabar Harian",
-    "short_name": "Newstoday",
-    "description": "Situs blog yang menyajikan informasi terkini dan terbaru seperti, Teknologi, Tips, Smartphone, Laptop, Ekonomi, Wisata",
-    "url": "/",
-  "display": "standalone",
-  "background_color": "#ffffff",
-  "theme_color": "#6a778a",
-  "icons": [
-    {
-      "src": "android-chrome-512x512.png",
-      "type": "image/png",
-      "sizes": "512x512"
-    },
-    {
-      "src": "android-chrome-192x192.png",
-      "type": "image/png",
-      "sizes": "192x192"
-    },
-    {
-      "src": "android-chrome-512x512.png",
-      "type": "image/png",
-      "sizes": "512x512"
-    }
-  ]
+   "name":"Blog Kabar Harian",
+   "short_name":"Newstoday.ID",
+   "start_url":"https://www.newstoday.id/",
+   "display":"standalone",
+   "background_color":"#ffffff",
+   "theme_color":"#6a778a",
+   "description":"Situs blog yang menyajikan informasi terkini dan terbaru seperti, Teknologi, Tips, Smartphone, Laptop, Ekonomi, Wisata",
+   "icons":[
+      {
+         "src":"favicon-16x16.png",
+         "sizes":"16x16",
+         "type":"image/png",
+         "density":"0.75"
+      },
+      {
+         "src":"favicon-32x32.png",
+         "sizes":"32x32",
+         "type":"image/png",
+         "density":"1.0"
+      },
+     {
+         "src":"android-chrome-192x192.png",
+         "sizes":"192x192",
+         "type":"image/png",
+         "density":"1.0"
+      },
+      {
+         "src":"android-chrome-512x512.png",
+         "sizes":"512x512",
+         "type":"image/png",
+         "density":"5.0"
+      }
+   ]
 }
+
